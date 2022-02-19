@@ -5,7 +5,7 @@
 ### 3) redis
 ### 4) nginx
 
-### to run the project you have to install docker on your machine and just run `docker-compose up -d --build`.
+to run the project you have to install docker on your machine and just run `docker-compose up -d --build`.
 
 Done by:
 
